@@ -238,7 +238,7 @@
 		(uuid "32f6f56b-0171-40ff-8fad-c005d2280955")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/3dmodels/TSW-105-08-G-S.step"
+	(model "${KIPRJMOD}/3dmodels/Samtec/TSW-105-08-G-S.step"
 		(offset
 			(xyz 5 0 -1.8)
 		)
